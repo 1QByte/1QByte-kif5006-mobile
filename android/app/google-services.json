@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197490227253",
+    "project_id": "kif5006-mobile-5377f",
+    "storage_bucket": "kif5006-mobile-5377f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197490227253:android:f7e0fa659ab11f03e4597c",
+        "android_client_info": {
+          "package_name": "com.example.kif5006_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjOlu94RjsskIDhfISOcJ01C7Ib6qTsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
